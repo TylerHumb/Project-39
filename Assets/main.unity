@@ -545,7 +545,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d52757d9bd7fa048b7d5c30aec0b467, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  eyes: {fileID: 2055115847}
   speed: 5
+  sensitivity: 5
 --- !u!136 &1801142334
 CapsuleCollider:
   m_ObjectHideFlags: 0
